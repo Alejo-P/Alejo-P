@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
   <span><i>Aprendiendo poco a poco</i></span>
 </p>
 <p>Contacto:
-  <a href="mailto:marcelo.pinzon@epn.edu.ec">marcelo.pinzon@epn.edu.ec</a>
+  <a href="mailto:pinzonmarcelo759@gmail.com">pinzonmarcelo759@gmail.com</a>
 </p>
 
 ###
