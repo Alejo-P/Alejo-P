@@ -19,18 +19,18 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <h2 align="center">Estadisticas e informacion</h2>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejo-P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1&custom_title=Estadisticas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alejo-P&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Alejo-P&locale=es&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Alejo-P&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+</div> -->
 
-<!-- <div data-importer="stats" align="center">
+<div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Alejo-P/Alejo-P/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Alejo-P/Alejo-P/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Alejo-P/Alejo-P/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div> -->
+</div>
 
 ###
 <h2 align="center">Tecnologias</h2>
