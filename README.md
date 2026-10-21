@@ -26,15 +26,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-trophy.vercel.app/?username=Alejo-P&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<!-- <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Alejo-P/Alejo-P/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Alejo-P/Alejo-P/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Alejo-P/Alejo-P/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div> -->
 
 ###
 <h2 align="center">Tecnologias</h2>
-<div align="center">
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Alejo-P/Alejo-P/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Alejo-P/Alejo-P/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Alejo-P/Alejo-P/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-</div>
+</div> -->
 
 ###
